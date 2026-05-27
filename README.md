@@ -1,4 +1,4 @@
-![HTML Tutorial Notes Banner](banner.png)
+![HTML Tutorial Notes Banner](Banner.png)
 
 # HTML Tutorial-0 Notes
 
